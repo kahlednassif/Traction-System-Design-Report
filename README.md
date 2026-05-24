@@ -12,7 +12,7 @@ University project for Electric Drive Systems covering traction system design an
  Technical Specifications
  
  Vehicle Type: Mid-size sedan  
- Acceleration (0-100 km/hr): ~7 seconds 
+ Acceleration (0-100 km/hr) : ~7 seconds 
  Maximum Speed: 200 km/hr  
  Total Weight: 1850 kg  
  
